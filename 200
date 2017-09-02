@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20170901073418_add_profile_pic_to_users.rb
